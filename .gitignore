@@ -14,4 +14,7 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
-/.dstore
+
+# Ignore mac stuff
+.dstore
+.DS_store
