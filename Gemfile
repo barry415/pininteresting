@@ -37,3 +37,4 @@ gem 'bootstrap-sass'
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+gem 'tzinfo-data'
