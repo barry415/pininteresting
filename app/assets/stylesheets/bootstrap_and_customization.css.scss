@@ -1,6 +1,16 @@
-$body-bg: #2ecc71;
-$navbar-default-bg: #27ae60;
-$navbar-default-color: white;
-$jumbotron-bg: silver;
+// BODY
+$body-bg: #F7CA18;
+$text-color: #EEEEEE;
+$link-color: #F4D03F;
+
+// BUTTON
+$btn-default-color: white;
+
+// JUMBOTRON!
+$jumbotron-bg: #E87E04;
+$jumbotron-heading-color: white;
+
+// NAVBAR
+$navbar-default-bg: #E87E04;
 $navbar-default-link-color: white;
 @import 'bootstrap';
