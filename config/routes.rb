@@ -1,7 +1,4 @@
 Rails.application.routes.draw do
-  #get 'fun/index'
-
-  #get 'fun/index'
 
   root"pages#home"
   get "about" => "pages#about"
