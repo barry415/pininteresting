@@ -20,6 +20,9 @@ module Pinteresting
     # config.i18n.load_path += Dir[Rails.root.join('my', 'locales', '*.{rb,yml}').to_s]
     # config.i18n.default_locale = :de
     
+    #Trying to get logout button to work
+    #config.action_view.javascript_expansions[:defaults] = %w(jquery.min jquery_ujs)
+
     # Required for Heroku
     config.assets.initialize_on_precompile = false
     config.action_mailer.default_url_options = { :host => 'localhost:3000' }
