@@ -1,0 +1,8 @@
+Check out Git Color
+git add specific file(s) to make your committs better
+git log <-- view commits
+
+git checkout -b branch_name // What does a branch look like in the file system?
+
+https://github.com/treehouse-dave/get-acquanted-with-git
+
